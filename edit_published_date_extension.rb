@@ -1,5 +1,5 @@
 class EditPublishedDateExtension < Radiant::Extension
-  version "1.0"
+  version "1.1"
   description "Allows to edit the published date of a page."
   url "http://github.com/sofadesign/radiant-edit-published-date-extension/tree/master"
   
